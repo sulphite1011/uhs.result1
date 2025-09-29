@@ -1,0 +1,25 @@
+
+
+in dono ko aik sath display none krna hai
+
+<div class= "container body-content-hamad1"
+<div class= "container body-content-hamad2"
+
+
+
+
+
+
+
+
+isy bad main display none krna hai
+<div id="hamad-result-search-div"</div>
+
+
+
+
+
+<input  type="text"                     id="roll-number"
+<input   type="button" value="Submit"    id="search-btn"
+
+
